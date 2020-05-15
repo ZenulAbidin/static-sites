@@ -5,3 +5,5 @@ This is a gallery of static site templates I polished. They have been migrated f
 All site templates were originally made by [Templated](https://templated.co/).
 
 - [Industrious](https://zenulabidin.github.io/static-sites/industrious/)
+
+[Back to homepage](https://zenulabidin.github.io)
