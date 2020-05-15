@@ -1,1 +1,1 @@
-# statis-sites
+# static-sites
